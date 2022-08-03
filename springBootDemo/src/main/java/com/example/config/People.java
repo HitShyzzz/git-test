@@ -12,4 +12,5 @@ public interface People {
     public  int age=35;
     public String name="shy";
     public double salary=20000.0;
+    private int status=0;
 }
